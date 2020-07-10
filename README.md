@@ -1,2 +1,2 @@
-# Azmuth GUI
+# AZMUTH
 Hackathon 2020
